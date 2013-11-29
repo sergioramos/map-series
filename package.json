@@ -1,6 +1,6 @@
 {
   "name": "map-series",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "iterate asynchronously in series through an array",
   "keywords": [
     "map",
