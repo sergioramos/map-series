@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/ramitos/map-series.png)](http://travis-ci.org/ramitos/map-series)
 [![Dependency Status](https://gemnasium.com/ramitos/map-series.png)](https://gemnasium.com/ramitos/map-series)
 [![Coverage Status](https://coveralls.io/repos/ramitos/map-series/badge.png?branch=master)](https://coveralls.io/r/ramitos/map-series?branch=master)
+[![Code Climate](https://codeclimate.com/github/ramitos/map-series.png)](https://codeclimate.com/github/ramitos/map-series)
 
 ## install
 
