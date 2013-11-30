@@ -32,3 +32,5 @@ map([1, 3, 2], function (x, callback) {
 ```
 
 ## license
+
+MIT
