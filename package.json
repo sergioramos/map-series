@@ -1,6 +1,6 @@
 {
   "name": "map-series",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "iterate asynchronously in series through an array",
   "keywords": [
     "map",
@@ -37,11 +37,11 @@
     "mocha": "1.10.x",
     "chai": "1.8.x"
   },
-  "engines": {
-    "node": ">=0.8"
-  },
   "dependencies": {
     "map": "git://github.com/ianstormtaylor/map.git",
     "array-series": "~0.1.4"
+  },
+  "engines": {
+    "node": ">=0.8"
   }
 }
